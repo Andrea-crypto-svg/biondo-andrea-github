@@ -13,9 +13,99 @@
   }
 }
 
+.pagina {
+  float: center;
+  
+  text-align: center;
+  max-width: 5%;
+  max-height: 100%;
+  margin-top: 970px;
+  margin-right: 20px;
+  margin-left: 600px;
+  border: 2px solid #68ff03;
+
+}
+.precedente {
+
+  float: left;
+  text-align: center;
+  max-width: 10%;
+  max-height: 100%;
+  margin-top: 970px;
+  margin-right: 20px;
+  margin-left: 500px;
+  border: 2px solid #68ff03;
+
+}
+
+.successivo {
+
+  float: right;
+  text-align: center;
+  max-width: 10%;
+  max-height: 100%;
+  margin-top: 10px;
+  margin-right: 200px;
+  margin-left: 0px;
+  border: 2px solid #68ff03;
+
+}
+
+.navbar {
+
+    text-align: center;
+    margin-top: px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    width: 90%;
+    height: 65px;
+    border: 2px solid #000000;
+
+  }
+
+.logo {
+
+  float: left;
+  background-color: blue;
+  text-align: center;
+  max-width: 5%;
+  max-height: 100%;
+  margin-top: 20px;
+  margin-left: 20px;
+  
+  border: 2px solid #2f00ff;
+  
+}
+
+.selectbar {
+
+  float: right;
+  
+  text-align: center;
+  max-width: 50%;
+  max-height: 100%;
+  margin-top: 20px;
+  margin-right: 20px;
+  
+  border: 2px solid #68ff03;
+
+}
+
+.container {
+  margin-top: 1px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 1px;
+  width: 90%;
+  height: 1000px;
+  border: 2px solid #000000;
+
+}
+
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #ffffff;
+  min-height: 1vh;
   display: flex;
   flex-direction: column;
   align-items: center;
