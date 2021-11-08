@@ -3,7 +3,7 @@ import './totrepos.css';
 const Totrepos = () => {
     return (
         <div className='totrepos'>
-            <p>Totale repos: x</p>
+            <p>Repository : x</p>
         </div>
     )
 }

@@ -4,8 +4,11 @@
     padding-top: 0.01%;
     padding-bottom: 0.01%;
     margin-top: 1.5%;
-    width: 120px;
+    width: 100px;
+    height: 60px;
     margin-left: 5%;
     float: left;
+    border: 3px solid black;
+    text-align: center;
 
 }
