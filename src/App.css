@@ -13,62 +13,9 @@
   }
 }
 
-
-.navbar {
-
-    text-align: center;
-    margin-top: px;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 0px;
-    width: 90%;
-    height: 65px;
-    border: 2px solid #000000;
-
-  }
-
-.logo {
-
-  float: left;
-  background-color: blue;
-  text-align: center;
-  max-width: 5%;
-  max-height: 100%;
-  margin-top: 20px;
-  margin-left: 20px;
-  
-  border: 2px solid #2f00ff;
-  
-}
-
-.selectbar {
-
-  float: right;
-  
-  text-align: center;
-  max-width: 50%;
-  max-height: 100%;
-  margin-top: 20px;
-  margin-right: 20px;
-  
-  border: 2px solid #68ff03;
-
-}
-
-.container {
-  margin-top: 1px;
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-bottom: 1px;
-  width: 90%;
-  height: 1000px;
-  border: 2px solid #000000;
-
-}
-
 .App-header {
-  background-color: #ffffff;
-  min-height: 1vh;
+  background-color: #282c34;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
