@@ -1,0 +1,10 @@
+.totrepos {
+    border-style:solid;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    width: 140px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    float: left;
+}
